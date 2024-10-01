@@ -1,0 +1,8 @@
+{
+
+    "execMap":{
+         "ts": "tsx"
+    },
+    "watch": ["server.ts", "package.json", "tsconfig.json","./*"]
+    
+}
